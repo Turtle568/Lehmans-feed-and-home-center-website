@@ -1,0 +1,259 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+h1, h2{
+  text-align: center;
+  color: white;
+}
+
+body{
+  background-color: white;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+/*nav Bar styles*/
+
+.navBar{
+  width: 100%;
+  height: 100px;
+  background-color: red;
+  display: flex;
+}
+
+.title{
+  font-size: 55px;
+  color: white;
+}
+
+.subTitle{
+  font-size: 28px;
+  color: white;
+}
+
+.button{
+  text-decoration: none;
+  text-align: left;
+  color: white;
+  padding: 23px;
+  margin:25px;
+  font-size: 35px;
+  display: block;
+}
+
+
+
+
+/*Images styles*/
+
+.Lehmansimg{
+  display: block;
+  width: 70%;
+  height: 600px;
+  margin-top: 65px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  object-fit: cover;
+  background-color: red;
+}
+
+
+
+
+/*Home Screen Hardware section*/
+
+.for_space{
+  margin-top: 55px;
+  margin-bottom: 55px;
+}
+
+.sellingSection{
+  background-color: black;
+  margin-top: 40px;
+}
+
+.sellHeadline{
+  color: white;
+}
+
+.sell{
+  padding-top: 40px;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+
+h1#events{
+  font-size: 55px;
+  margin-top: 25px;
+  color:black;
+}
+
+p#eventsText{
+  font-size: 33px;
+}
+
+.links{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.container{
+  width: 400px;
+  border: solid 2px black;
+  height: 550px;
+  background-color: black;
+}
+
+.container p{
+  color: white;
+  font-size: 18px;
+  
+}
+
+.container img{
+ width: 100%;
+ height: 350px;
+}
+
+
+
+
+
+
+/*Fotter Styles*/
+
+.icons_images{
+  margin-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer{
+  padding: 25px;
+  background-color: #707070;
+
+}
+
+.footer h3{
+  font-size: 45px;
+  margin-bottom: 5px;
+}
+
+.footer a{
+ text-decoration: none; 
+ color: black;
+ margin-bottom: 5px;
+ font-size: 35px;
+}
+
+.footer_rows{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer_row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icons{
+  margin-top: auto;
+  margin-right: 50px;
+  width:50px;
+  height:50px;
+}
+
+
+
+
+/*Contact_page styles*/
+
+.information_block{
+  background-color: red;
+  width: 700px;
+  height: 700px;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.information_block a{
+  text-decoration: none;
+  color: white;
+  font-size: 35px;
+  
+}
+
+.information_block h2{
+  font-size: 55px;
+  padding-bottom: 15px;
+}
+
+.information_block h2.continue{
+  border-bottom: dashed;
+}
+
+.contacts_page{
+  background-image: url(photos/Content_background_img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  
+}
+
+
+/*About_page style*/
+
+.about_page h1.header{
+  color: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 100px;
+}
+
+.section{
+  font-size: 55px;
+}
+
+
+/*merchindise page*/
+
+.item{
+  width: 250px;
+  height: 350px;
+  background-color: #ba4f4f;
+}
+
+.merchindise h1{
+  font-size: 55px;
+  width: auto;
+}
+
+/*Services page*/
+.img_combo{
+  width: 100%;
+  object-fit: fill;
+}

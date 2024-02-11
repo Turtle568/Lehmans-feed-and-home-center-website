@@ -1,0 +1,25 @@
+
+ <h2>sample text</h2>
+ <p>Lehman's Feed and Home Center is a hardware store located in york springs. Lehmans has a variety of hardware types, electrical supplies, plumbing equipment, nuts, bolts, screws, nails, hammers, screwdrivers, and mechanical supplies. We also have home goods like cleaning supplies and home decorations. We also have a supply of dry shod boots, Milwaukee equipment like leaf blowers and electric chainsaws, and seasonal items. Lastly Lehman's also sells propane tanks and refiles them.</p>
+
+
+ #seperate sections for animal feed and pet food
+ get photo of the lehmans sign
+
+
+
+ We're Lehman's Feed and Home Center, a family-owned business serving York Springs, PA, for over 60 years. Our store is here to meet your practical needs, whether you're looking after your animals or making improvements at home. At Lehman's, we go beyond being a feed store. We provide high-quality pet food and farm animal feed from trusted brands such as Purina, Equine, Country Acres, Kalmbach, and True Choice. Our store is a diverse collection of hardware, plumbing, electrical supplies, outdoor equipment, propane, wood pellets, and various animal necessities, including toys, flea control, and water bowls. We also have a selection of home decorations and seasonal items to add a personal touch to your living space.
+
+Our goal is simple: to ensure you leave with everything you need and experience excellent customer service. Our knowledgeable and friendly staff is dedicated to helping you find the right products for your specific needs. Thank you for choosing Lehman's Feed and Home Center, where tradition meets modern convenience, and your satisfaction is our top priority. We look forward to serving you for many more years to come.
+
+
+<div class=aboutUs>
+  <h1 class=aboutHeadline>About us</h1> 
+  <p> Hey there! We're Lehman's, a friendly family-run place in York Springs, PA, doing our thing for over 60 years. We're not just a feed store – we're your go-to spot for everything from feeding your pets and farm buddies to fixing up your home.</p>
+  <h1 class=section>Loads of Good Stuff for You and Your Animals</h1>
+  <p>We've got the good stuff for your furry and feathered friends – pet food, farm animal grub from brands like Purina and Equine, and more. But that's not all! We've got hardware, plumbing gear, electrical stuff, outdoor equipment, propane, wood pellets, and all the things you need to keep your home in top shape.</p>
+  <h1 class=section>Fun Stuff for Your Pets and Cool Decor for Your Place</h1>
+  <p>We know your pets are like family, so we've got toys, flea control, and water bowls to keep them happy. And if you're into making your home look awesome, we've got cool decorations and seasonal stuff too.</p>
+  <h1 class=section>Our Promise: We're Here for You</h1>
+  <p>Our aim is simple – make sure you leave with what you need, and we're all about friendly customer service. Our team is here to help you find the right stuff, whether you're taking care of your farm, pets, or just sprucing up your home. Thanks for choosing Lehman's Feed and Home Center, where we mix tradition with modern vibes, and making you happy is what we're all about. We can't wait to keep helping you for many more years!</p>        
+</div>
